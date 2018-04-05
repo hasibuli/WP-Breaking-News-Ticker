@@ -1,0 +1,24 @@
+.label, .wpbnt_body, .wpbnt_body ul li {
+	display: block;
+	line-height: 32px
+}
+.wpbnt_body {
+	height: 32px;
+	padding: 0 15px
+}
+.wpbnt_body ul {
+	margin: 0
+}
+.typing {
+	padding-left: 18px
+}
+.fade>li, .slide>li, .typing>li {
+	list-style: none inside
+}
+.label {
+	float: left;
+	margin-right: 20px
+}
+.wpbnt_body ul li a {
+	text-decoration: none
+}
